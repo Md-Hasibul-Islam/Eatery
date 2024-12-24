@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238449145580",
+    "project_id": "eatery-ad958",
+    "storage_bucket": "eatery-ad958.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238449145580:android:23917457494b7df50c17c9",
+        "android_client_info": {
+          "package_name": "com.example.eatery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238449145580-uobndk5vvfa92n3jve2j4m00tilof33b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtK4tdMBm8CREk8tJUANfLd1z193H5iyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238449145580-uobndk5vvfa92n3jve2j4m00tilof33b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

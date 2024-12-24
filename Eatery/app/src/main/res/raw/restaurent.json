@@ -1,0 +1,894 @@
+[
+  {
+    "name":"Kudos",
+    "address":"920/C Shahid Baki Rd, Khilgaon, Dhaka.",
+    "delivery_charge": 60,
+    "image":"https://static.hungrynaki.com/hungrynaki-v4/restaurants/kudos/meta/kudos_logo_1619780643835.jpg",
+    "hours":{
+      "Sunday":"11:00 AM - 10:30 PM",
+      "Monday":"11:00 AM - 10:30 PM",
+      "Tuesday":"11:00 AM - 10:30 PM",
+      "Wednesday":"11:00 AM - 10:30 PM",
+      "Thursday":"11:00 AM - 10:30 PM",
+      "Friday":"03:00 PM - 10:30 PM",
+      "Saturday":"11:00 AM - 10:30 PM"
+    },
+    "menus": [
+      {
+        "name": "Roasted Beef Sandwich",
+        "price": 199.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kudos/items/kudos_roasted_beef_thumbnail_1619789090958.jpg"
+      },
+      {
+        "name": "Naga Wings",
+        "price": 189.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kudos/items/kudos_naga_wings_thumbnail_1619788658100.jpg"
+      },
+      {
+        "name": "Masala Potatoes",
+        "price": 99.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kudos/items/kudos_masala_potato_thumbnail_1619788275342.jpg"
+      },
+      {
+        "name": "Beef Burger",
+        "price": 189.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kudos/items/kudos_beef_burger_thumbnail_1619784585889.jpg"
+      },
+      {
+        "name": "Chick Room Burger",
+        "price": 235.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kudos/items/kudos_chick_room_burger_thumbnail_1619784358514.jpg"
+      },
+      {
+        "name": "Smokey Chicken Cheese Sandwich",
+        "price": 179.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kudos/items/kudos_smokey_chicken_cheese_thumbnail_1619789508091.jpg"
+      }
+    ]
+  },
+  {
+    "name":"North End Coffee Roasters",
+    "address":"51B Kamal Ataturk Ave, Banani, Dhaka 1212.",
+    "delivery_charge": 90,
+    "image":"https://static.hungrynaki.com/hungrynaki-v4/restaurants/north_end_coffee_roasters/meta/north_end_coffee_roasters_logo_1629877745806.png",
+    "hours":{
+      "Sunday":"07:00 AM - 10:30 PM",
+      "Monday":"07:00 AM - 10:30 PM",
+      "Tuesday":"07:00 AM - 10:30 PM",
+      "Wednesday":"07:00 AM - 10:30 PM",
+      "Thursday":"07:00 AM - 11:00 PM",
+      "Friday":"07:00 AM - 11:00 PM",
+      "Saturday":"07:00 AM - 10:30 PM"
+    },
+    "menus": [
+      {
+        "name": "Americano",
+        "price": 185.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/north_end_coffee_roasters/items/north_end_coffee_roasters_americano_thumbnail_1629958044106.jpeg"
+      },
+      {
+        "name": "Latte",
+        "price": 240.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/north_end_coffee_roasters/items/north_end_coffee_roasters_latte_thumbnail_1629958403016.jpeg"
+      },
+      {
+        "name": "Hot Chocolate",
+        "price": 300.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/north_end_coffee_roasters/items/north_end_coffee_roasters_hot_chocolate_thumbnail_1629958366372.jpeg"
+      },
+      {
+        "name": "Double Espresso",
+        "price": 200.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/north_end_coffee_roasters/items/north_end_coffee_roasters_double_espresso_thumbnail_1629959885547.jpeg"
+      },
+      {
+        "name": "Roast Beef Sandwich",
+        "price": 410.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/north_end_coffee_roasters/items/north_end_coffee_roasters_roast_beef_sandwich_thumbnail_1629955478901.jpeg"
+      },
+      {
+        "name": "Roast Beef Sandwich on a Croissant",
+        "price": 490.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/north_end_coffee_roasters/items/north_end_coffee_roasters_roast_beef_sandwich_on_a_croissant_thumbnail_1629957110676.jpeg"
+      },
+      {
+        "name": "The Charles",
+        "price": 480.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/north_end_coffee_roasters/items/the_charles_the_charles_thumbnail_1630481092854.jpeg"
+      }
+    ]
+  },
+  {
+    "name":"Chillox",
+    "address":"Level - 3, AMM Center, 56/A Rd 3A, Dhaka 1209.",
+    "delivery_charge": 70,
+    "image":"https://static.hungrynaki.com/hungrynaki-v4/restaurants/chillox/meta/chillox_logo_1628677300133.jpeg",
+
+    "hours":{
+      "Sunday":"10:00 AM - 11:00 PM",
+      "Monday":"10:00 AM - 11:00 PM",
+      "Tuesday":"10:00 AM - 11:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 11:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 11:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Chicken Cheese Burger",
+        "price": 200.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/chillox_banani/items/chillox_banani_chicken_cheese_burger_thumbnail_1615279592495.jpg"
+      },
+      {
+        "name": "Chicken With Sausage Burger",
+        "price": 250.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/chillox_banani/items/chillox_banani_chicken_with_sausage_burger_thumbnail_1615288257004.jpg"
+      },
+      {
+        "name": "French Fries",
+        "price": 70.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/chillox_banani/items/chillox_banani_french_fries_thumbnail_1615270846828.jpg"
+      },
+      {
+        "name": "Naga Drums",
+        "price": 95.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/chillox_banani/items/chillox_banani_naga_drums_thumbnail_1615271375203.jpg"
+      },
+      {
+        "name": "Beef Signature Burger",
+        "price": 380.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/chillox_banani/items/chillox_banani_beef_signature_burger_thumbnail_1615272579492.jpg"
+      },
+      {
+        "name": "Double Decker Chicken Burger",
+        "price": 300.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/chillox_banani/items/chillox_banani_double_decker_chicken_burger_thumbnail_1615289406959.jpg"
+      },
+      {
+        "name": "Beef Cheese Blast Burger",
+        "price": 320.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/chillox_banani/items/chillox_banani_beef_cheese_blast_burger_thumbnail_1615272314068.jpg"
+      },
+      {
+        "name": "Giganto Beef Burger",
+        "price": 430.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/chillox_banani/items/chillox_banani_giganto_beef_burger_thumbnail_1615276714455.jpg"
+      },
+      {
+        "name": "Chicken Signature Burger",
+        "price": 380.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/chillox_banani/items/chillox_banani_chicken_signature_burger_thumbnail_1615290912269.jpg"
+      },
+      {
+        "name": "Smoky BBQ Cheese Chicken Burger",
+        "price": 225.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/chillox_banani/items/chillox_banani_smoky_b_b_q_cheese_chicken_burger_thumbnail_1615284266211.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Burger King Bangladesh",
+    "address":"Plot 43 (New), Ground Floor, Road No. 2A, Satmasjid Road, Dhaka 1209.",
+    "delivery_charge": 80,
+    "image":"https://www.burgerkingbangladesh.com/webnew/assets/images/logo_latest.png",
+    "hours":{
+      "Sunday":"10:00 AM - 11:00 PM",
+      "Monday":"10:00 AM - 11:00 PM",
+      "Tuesday":"10:00 AM - 11:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 11:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 11:00 PM"
+    },
+    "menus": [
+      {
+        "name": "BBQ Whopper",
+        "price": 489.00,
+        "url": "https://www.burgerkingbangladesh.com/upload/menu/thumbnail_images/161362526693480_thumb_BBQWhopper.png"
+      },
+      {
+        "name": "Wonder Deal",
+        "price": 399.00,
+        "url": "https://www.burgerkingbangladesh.com/upload/menu/thumbnail_images/164965655593151_thumb_WonderDeal.png"
+      },
+      {
+        "name": "Leg Bucket",
+        "price": 1149.00,
+        "url": "https://www.burgerkingbangladesh.com/upload/menu/thumbnail_images/162486417343891_thumb_LegBucket.png"
+      },
+      {
+        "name": "Spicy Large French Fries",
+        "price": 219.00,
+        "url": "https://www.burgerkingbangladesh.com/upload/menu/thumbnail_images/164553024210645_thumb_SpicyLargeFrenchFries.png"
+      },
+      {
+        "name": "Chocolate Sundae",
+        "price": 249.00,
+        "url": "https://www.burgerkingbangladesh.com/upload/menu/thumbnail_images/163928866763067_thumb_ChocolateSundae.png"
+      },
+      {
+        "name": "Large Coke",
+        "price": 139.00,
+        "url": "https://www.burgerkingbangladesh.com/upload/menu/thumbnail_images/163928802615597_thumb_LargeCoke.png"
+      }
+    ]
+  },
+  {
+    "name":"Kacchi Bhai",
+    "address":"Dhanmondi, Dhaka 1205.",
+    "delivery_charge": 70,
+    "image":"https://static.hungrynaki.com/hungrynaki-v4/restaurants/meta/_logo_1588831595257.jpg",
+    "hours":{
+      "Sunday":"11:30 AM - 11:00 PM",
+      "Monday":"11:30 AM - 11:00 PM",
+      "Tuesday":"11:30 AM - 11:00 PM",
+      "Wednesday":"11:30 AM - 11:00 PM",
+      "Thursday":"11:30 AM - 11:00 PM",
+      "Friday":"11:30 AM - 11:00 PM",
+      "Saturday":"11:30 AM - 11:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Basmati Kacchi",
+        "price": 270.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kacchi_bhai/items/kacchi_bhai_basmati_kacchi_thumbnail_1649579791606.jpeg"
+      },
+      {
+        "name": "Plain Polao With Chicken Roast And Borhani",
+        "price": 250.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kacchi_bhai/items/kacchi_bhai_plain_polao_with_chicken_roast_and_borhani_thumbnail_1649580416062.jpeg"
+      },
+      {
+        "name": "Basmati Kacchi With Borhani, Chicken Roast And Jali Kabab",
+        "price": 480.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kacchi_bhai/items/kacchi_bhai_basmati_kacchi_with_borhani_chicken_roast_jali_kabab_thumbnail_1649579920104.jpeg"
+      },
+      {
+        "name": "Chui Jhal Gosto With Plain Rice Or Polao",
+        "price": 220.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kacchi_bhai/items/kacchi_bhai_chui_jhal_gosto_with_plain_rice_or_polao_thumbnail_1649580573435.jpeg"
+      },
+      {
+        "name": "Firni",
+        "price": 60.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kacchi_bhai/items/kacchi_bhai_firni_thumbnail_1649581255585.jpeg"
+      },
+      {
+        "name": "Borhani",
+        "price": 60.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kacchi_bhai/items/kacchi_bhai_borhani_thumbnail_1649580879210.jpeg"
+      }
+    ]
+  },
+  {
+    "name":"Mithai",
+    "address":"148 Shanti Nagar Rd, Dhaka 1217.",
+    "delivery_charge": 70,
+    "image":"https://mithaibd.com/images/logos/16/Mithai_Eng_Logo.png",
+    "hours":{
+      "Sunday":"07:00 AM - 11:00 PM",
+      "Monday":"07:00 AM - 11:00 PM",
+      "Tuesday":"07:00 AM - 11:00 PM",
+      "Wednesday":"07:00 AM - 11:00 PM",
+      "Thursday":"07:00 AM - 11:00 PM",
+      "Friday":"07:00 AM - 11:00 PM",
+      "Saturday":"07:00 AM - 11:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Mithai Kaju Barfee",
+        "price": 188.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/101/Mithai-Kaju-Barfee_iz2b-t3.jpg"
+      },
+      {
+        "name": "Motichur OrangeLaddu",
+        "price": 475.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/100/Mithai-Spl-Motichur-Laddu--Orange.jpg"
+      },
+      {
+        "name": "Sponge Rusgolla",
+        "price": 500.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/100/Sponge-Rusgolla-1Kg.jpg"
+      },
+      {
+        "name": "Kacha Golla",
+        "price": 163.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/100/Mithai-Kacha-Golla_xhay-82.jpg"
+      },
+      {
+        "name": "Mithai Cup Curd",
+        "price": 50.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/100/Mithai-Cup-Curd.jpg"
+      },
+      {
+        "name": "Chocolate Cake",
+        "price": 720.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/114/Chocolate-Cake.jpg"
+      },
+      {
+        "name": "Choco-Vanilla Cake",
+        "price": 1530.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/114/CHOCO-VANILLA_cake_im16-ts.jpg"
+      },
+      {
+        "name": "Coffee Cake",
+        "price": 810.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/114/COFFEE-CAKE.jpg"
+      },
+      {
+        "name": "Mithai Premium Butter Cookies",
+        "price": 695.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/17/TST00093.jpg"
+      },
+      {
+        "name": "Mithai Premium Ovaltine Cookies",
+        "price": 695.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/17/TST00104.jpg"
+      },
+      {
+        "name": "Mithai Fried Chicken Samucha",
+        "price": 30.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/115/Chicken.jpeg"
+      },
+      {
+        "name": "Mithai Chicken Cheese Burger",
+        "price": 100.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/114/Chicken-Cheese-Burger.jpg"
+      },
+      {
+        "name": "Mithai Savory Combo Pack",
+        "price": 330.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/101/Savory-Combo_800x800.jpg"
+      },
+      {
+        "name": "Mithai Morog Polao",
+        "price": 170.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/35/Morog_Polao.jpg"
+      },
+      {
+        "name": "Mithai Bashmoti Kacchi",
+        "price": 295.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/35/Bashmoti_Kacchi.jpg"
+      },
+      {
+        "name": "Mithai Butter Bun",
+        "price": 35.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/100/Mithai-Butter-Bun.jpg"
+      },
+      {
+        "name": "Mithai Lemon Bun",
+        "price": 60.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/100/Mithai-Lemon-Bun.jpg"
+      },
+      {
+        "name": "Mithai Sweet Curd",
+        "price": 350.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/100/Mithai-Sweet-Curd-1kg.jpg"
+      },
+      {
+        "name": "Mithai Chocolate Brownie",
+        "price": 60.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/100/Chocolate-Brownie.jpg"
+      },
+      {
+        "name": "Chocolate Donut",
+        "price": 60.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/100/Mithai-Chocolate-Donut.jpg"
+      },
+      {
+        "name": "Mithai Malai Kulfi Cup",
+        "price": 60.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/100/Malai-Kulfi.jpg"
+      },
+      {
+        "name": "Patishapta Pitha",
+        "price": 40.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/100/Pati-Sapta-Pithaa.jpg"
+      },
+      {
+        "name": "Nakshi Pitha",
+        "price": 35.00,
+        "url": "https://mithaibd.com/images/thumbnails/240/240/detailed/100/Nakshi-Pitha.jpg"
+      }
+    ]
+  },
+  {
+    "name":"BFC",
+    "address":"311 New Baily Rd, Dhaka 1217.",
+    "delivery_charge": 70,
+    "image":"https://static.hungrynaki.com/hungrynaki-v4/restaurants/meta/_logo_1587452540527.jpg",
+    "hours":{
+      "Sunday":"10:00 AM - 11:00 PM",
+      "Monday":"10:00 AM - 11:00 PM",
+      "Tuesday":"10:00 AM - 11:00 PM",
+      "Wednesday":"11:00 AM - 11:00 PM",
+      "Thursday":"11:00 AM - 11:00 PM",
+      "Friday":"11:00 AM - 11:00 PM",
+      "Saturday":"11:00 AM - 11:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Best Burger",
+        "price": 245.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/b_f_c/items/b_f_c_best_burger_thumbnail_1631701039056.jpeg"
+      },
+      {
+        "name": "Supreme Cheese Burger",
+        "price": 295.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/b_f_c/items/b_f_c_supreme_cheese_burger_thumbnail_1631710856872.jpeg"
+      },
+      {
+        "name": "Potato Wedges",
+        "price": 90.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/b_f_c/items/b_f_c_potato_wedges_thumbnail_1631705895069.jpeg"
+      },
+      {
+        "name": "Supreme Burger",
+        "price": 265.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/b_f_c/items/b_f_c_supreme_burger_thumbnail_1631701303978.jpeg"
+      },
+      {
+        "name": "Spicy Nuggets",
+        "price": 290.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/b_f_c/items/b_f_c_spicy_nuggets_thumbnail_1631700518861.jpeg"
+      },
+      {
+        "name": "Super Cheese Burger",
+        "price": 275.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/b_f_c/items/b_f_c_super_cheese_burger_thumbnail_1631701125302.jpeg"
+      }
+    ]
+  },
+  {
+    "name":"KFC Bangladesh",
+    "address":"41, AK Famous Tower, Rankin St, Wari, Dhaka 1203.",
+    "delivery_charge": 80,
+    "image":"https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/KFC_logo.svg/1200px-KFC_logo.svg.png",
+    "hours":{
+      "Sunday":"11:00 AM - 10:00 PM",
+      "Monday":"11:00 AM - 10:00 PM",
+      "Tuesday":"11:00 AM - 10:00 PM",
+      "Wednesday":"11:00 AM - 10:00 PM",
+      "Thursday":"11:00 AM - 10:00 PM",
+      "Friday":"11:00 AM - 10:00 PM",
+      "Saturday":"11:00 AM - 10:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Boneless Strips",
+        "price": 489.00,
+        "url": "https://kfcbd.com/storage/products/tN4XYIy9sCUvyLmR0nwBVHQ21.jpg"
+      },
+      {
+        "name": "Leg Bucket Meal",
+        "price": 649.00,
+        "url": "https://kfcbd.com/storage/products/oAuga2spD221BMhZ1vtDq1YFh.jpg"
+      },
+      {
+        "name": "Super Charger Box",
+        "price": 449.00,
+        "url": "https://kfcbd.com/storage/products/xMaSzF7PDVti764QmqSxxZ3Bh.jpg"
+      },
+      {
+        "name": "Chicken & Rice Meal",
+        "price": 289.00,
+        "url": "https://kfcbd.com/storage/products/jsE1YcUTGBxkcdQblGOK0u0wu.jpg"
+      },
+      {
+        "name": "Hot Wings",
+        "price": 155.00,
+        "url": "https://kfcbd.com/storage/products/OneeSRwoDSbQd6X7CxlfyC1Zj.jpg"
+      },
+      {
+        "name": "Gravy",
+        "price": 30.00,
+        "url": "https://kfcbd.com/storage/products/hKVIBDoEbaEggbbdx0LcqM79N.jpg"
+      },
+      {
+        "name": "Dynamite Mayo",
+        "price": 20.00,
+        "url": "https://kfcbd.com/storage/products/prqPS4BAblQBf3TcsXQ29zzLf.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Kababwala",
+    "address":"10, Atish Dipankar Road, Shabujbagh, Dhaka 1214.",
+    "delivery_charge": 60,
+    "image":"https://static.hungrynaki.com/hungrynaki-v4/restaurants/meta/_logo_1606110837963.jpg",
+    "hours":{
+      "Sunday":"03:00 PM - 11:00 PM",
+      "Monday":"03:00 PM - 11:00 PM",
+      "Tuesday":"03:00 PM - 11:00 PM",
+      "Wednesday":"03:00 PM - 11:00 PM",
+      "Thursday":"03:00 PM - 11:00 PM",
+      "Friday":"03:00 PM - 11:00 PM",
+      "Saturday":"03:00 PM - 11:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Luchi",
+        "price": 10.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kababwala/items/kababwala_luchi_thumbnail_1614662369908.jpg"
+      },
+      {
+        "name": "Deshi Chicken Jhal Fry",
+        "price": 220.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kababwala/items/kababwala_deshi_chicken_jhal_fry_thumbnail_1652685207363.jpeg"
+      },
+      {
+        "name": "Chicken Tikka",
+        "price": 120.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kababwala/items/kababwala_chicken_tikka_thumbnail_1652684109150.jpeg"
+      },
+      {
+        "name": "Garlic Naan",
+        "price": 60.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kababwala/items/kababwala_garlic_naan_thumbnail_1614661770866.jpg"
+      },
+      {
+        "name": "Chicken Jhal Fry",
+        "price": 150.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kababwala/items/kababwala_chicken_jhal_fry_thumbnail_1652684318345.jpeg"
+      },
+      {
+        "name": "Orange Juice",
+        "price": 70.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kababwala/items/kababwala_orange_juice_thumbnail_1614667731480.jpg"
+      },
+      {
+        "name": "Lemon Water",
+        "price": 30.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/kababwala/items/kababwala_lemon_water_thumbnail_1614667362312.jpg"
+      }
+    ]
+  },
+  {
+    "name":"CoffeeLime",
+    "address":"Shahid Baki Rd, Khilgaon, Dhaka 1219.",
+    "delivery_charge": 60,
+    "image":"https://static.hungrynaki.com/hungrynaki-v4/restaurants/coffeelime/meta/coffeelime_logo.jpg",
+    "hours":{
+      "Sunday":"12:00 PM - 11:00 PM",
+      "Monday":"12:00 PM - 11:00 PM",
+      "Tuesday":"12:00 PM - 11:00 PM",
+      "Wednesday":"12:00 PM - 11:00 PM",
+      "Thursday":"12:00 PM - 11:00 PM",
+      "Friday":"03:30 PM - 11:00 PM",
+      "Saturday":"12:00 PM - 11:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Mint Lemonade",
+        "price": 30.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/coffee_lime/items/coffee_lime_mint_lemonade_thumbnail_1650953064728.jpeg"
+      },
+      {
+        "name": "Malta Juice",
+        "price": 80.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/coffee_lime/items/coffee_lime_malta_juice_thumbnail_1650953105668.jpeg"
+      },
+      {
+        "name": "Pineapple Juice",
+        "price": 60.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/coffee_lime/items/coffee_lime_pineapple_juice_thumbnail_1650953027012.jpeg"
+      },
+      {
+        "name": "Orange Lemonade",
+        "price": 50.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/coffee_lime/items/coffee_lime_orange_lemonade_thumbnail_1650953192843.jpeg"
+      },
+      {
+        "name": "Woodapple Juice",
+        "price": 80.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/coffee_lime/items/coffee_lime_woodapple_juice_thumbnail_1650953379150.jpeg"
+      },
+      {
+        "name": "Olive Juice",
+        "price": 60.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/coffee_lime/items/coffee_lime_olive_juice_thumbnail_1650953415949.jpeg"
+      }
+    ]
+  },
+  {
+    "name":"Pizza Hut",
+    "address":"House 7 Main Rd, Banasree, Dhaka 1212.",
+    "delivery_charge": 80,
+    "image":"https://static.hungrynaki.com/hungrynaki-v4/restaurants/pizza_hut_p_h_d_/meta/pizza_hut_p_h_d__logo_1563893723735.png",
+    "hours":{
+      "Sunday":"11:00 AM - 11:00 PM",
+      "Monday":"11:00 AM - 11:00 PM",
+      "Tuesday":"11:00 AM - 11:00 PM",
+      "Wednesday":"11:00 AM - 11:00 PM",
+      "Thursday":"11:00 AM - 11:00 PM",
+      "Friday":"11:00 AM - 11:00 PM",
+      "Saturday":"11:00 AM - 11:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Classic Margherita",
+        "price": 179.00,
+        "url": "https://www.pizzahutbd.com/attached_images/products/12/gw6REoONSuYZYH6.JPEG"
+      },
+      {
+        "name": "BBQ Chicken",
+        "price": 379.00,
+        "url": "https://www.pizzahutbd.com/attached_images/products/331/B0NeSLc9DgOOjsG.JPEG"
+      },
+      {
+        "name": "Red N Hot",
+        "price": 429.00,
+        "url": "https://www.pizzahutbd.com/attached_images/products/218/HzuZVhFkZf4b4H0.JPEG"
+      },
+      {
+        "name": "Triple Chicken Feast",
+        "price": 479.00,
+        "url": "https://www.pizzahutbd.com/attached_images/products/22/A6QXDCoblChmI5G.JPEG"
+      },
+      {
+        "name": "Beef Lovers (C.B)",
+        "price": 1049.00,
+        "url": "https://www.pizzahutbd.com/attached_images/products/258/X0sOIqweq2w9fNX.JPEG"
+      },
+      {
+        "name": "Kala Bhuna Deluxe (GS)",
+        "price": 1479.00,
+        "url": "https://www.pizzahutbd.com/attached_images/products/270/SFveTJ3oHdD1bIJ.JPEG"
+      },
+      {
+        "name": "Chicken Classic (Thin Crust)",
+        "price": 819.00,
+        "url": "https://www.pizzahutbd.com/attached_images/products/130/80JKiwczgZ0bVPW.JPEG"
+      },
+      {
+        "name": "Baked-Chicken Arabiatta",
+        "price": 489.00,
+        "url": "https://www.pizzahutbd.com/attached_images/products/154/sa8PS2yx7gjYE0f.JPEG"
+      },
+      {
+        "name": "Baked Potato Wedges",
+        "price": 259.00,
+        "url": "https://www.pizzahutbd.com/attached_images/products/147/Baked-Potato-Wedges.jpg"
+      },
+      {
+        "name": "Pepsi",
+        "price": 35.00,
+        "url": "https://toppng.com/uploads/preview/pepsi-glass-11551063674uol9egxgdh.png"
+      },
+      {
+        "name": "Mountain Dew",
+        "price": 32.00,
+        "url": "https://assets.stickpng.com/thumbs/587187107b7f6103e35c6cce.png"
+      }
+    ]
+  },
+  {
+    "name":"Sultan's Dine",
+    "address":"1st floor, Samsuddin Mansion, House: 41 Road: 52, Gulshan, Dhaka 1212.",
+    "delivery_charge": 70,
+    "image":"https://static.hungrynaki.com/hungrynaki-v4/restaurants/sultan_s_dine/meta/sultan_s_dine_logo_1628677315491.jpeg",
+    "hours":{
+      "Sunday":"12:00 PM - 11:00 PM",
+      "Monday":"12:00 PM - 11:00 PM",
+      "Tuesday":"12:00 PM - 11:00 PM",
+      "Wednesday":"12:00 PM - 11:00 PM",
+      "Thursday":"12:00 PM - 11:00 PM",
+      "Friday":"12:00 PM - 11:00 PM",
+      "Saturday":"12:00 PM - 11:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Basmati Kacchi",
+        "price": 420.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/sultan_s_dine/items/sultan_s_dine_basmati_kacchi_for_1_person_thumbnail_1649828616173.jpeg"
+      },
+      {
+        "name": "Basmati Kacchi With Chicken Roast & Borhani",
+        "price": 599.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/sultan_s_dine/items/sultan_s_dine_kacchi_basmati_chicken_roast_borhani_thumbnail_1649830977890.jpeg"
+      },
+      {
+        "name": "Plain Polao",
+        "price": 99.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/sultan_s_dine/items/sultan_s_dine_plain_polao_thumbnail_1649831654205.jpeg"
+      },
+      {
+        "name": "Chicken Roast",
+        "price": 140.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/sultan_s_dine/items/sultan_s_dine_chicken_roast_thumbnail_1649831630407.jpeg"
+      },
+      {
+        "name": "Jorda",
+        "price": 60.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/sultan_s_dine/items/sultan_s_dine_jorda_thumbnail_1649831274570.jpeg"
+      },
+      {
+        "name": "Firni",
+        "price": 60.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/sultan_s_dine/items/sultan_s_dine_firni_thumbnail_1649831224385.jpeg"
+      },
+      {
+        "name": "Borhani",
+        "price": 60.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/sultan_s_dine/items/sultan_s_dine_borhani_1_glass__thumbnail_1649832027425.jpeg"
+      }
+    ]
+  },
+  {
+    "name":"BBQ Bangladesh",
+    "address":"Block H, BBQ, Navana Rowshan Sayed Plaza Level 2, Plot 47, Road 11, Banani, Dhaka 1213.",
+    "delivery_charge": 100,
+    "image":"https://static.hungrynaki.com/hungrynaki-v4/restaurants/bbq/meta/bbq_logo.jpg",
+    "hours":{
+      "Sunday":"11:00 AM - 10:00 PM",
+      "Monday":"11:00 AM - 10:00 PM",
+      "Tuesday":"11:00 AM - 10:00 PM",
+      "Wednesday":"11:00 AM - 10:00 PM",
+      "Thursday":"11:00 AM - 10:00 PM",
+      "Friday":"11:00 AM - 10:00 PM",
+      "Saturday":"11:00 AM - 10:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Pane Cream Pasta",
+        "price": 658.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/b_b_q_bangladesh/items/b_b_q_bangladesh_pane_cream_pasta_thumbnail_1619001036750.jpg"
+      },
+      {
+        "name": "Jamaican Grilled Whole Chicken",
+        "price": 1469.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/b_b_q_bangladesh/items/b_b_q_bangladesh_jamaican_grilled_whole_chicken_sharing_8_pcs__thumbnail_1656896404814.jpeg"
+      },
+      {
+        "name": "Korean Charbroiled",
+        "price": 944.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/b_b_q_bangladesh/items/b_b_q_bangladesh_korean_charbroiled_thigh_3_pcs__thumbnail_1618984528567.jpg"
+      },
+      {
+        "name": "Hot Spicy Chicken",
+        "price": 578.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/b_b_q_bangladesh/items/b_b_q_bangladesh_hot_spicy_chicken_5_pcs_thumbnail_1618997989300.jpg"
+      },
+      {
+        "name": "Gangnam Wings",
+        "price": 808.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/b_b_q_bangladesh/items/b_b_q_bangladesh_gangnam_wings_thumbnail_1618976855996.jpg"
+      },
+      {
+        "name": "Spicy Burger With Cheese",
+        "price": 392.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/b_b_q_bangladesh/items/b_b_q_bangladesh_spicy_burger_with_cheese_pomme_frite_thumbnail_1618980292272.jpg"
+      },
+      {
+        "name": "Chicken Strips Salad",
+        "price": 549.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/b_b_q_bangladesh/items/b_b_q_bangladesh_chicken_strips_salad_thumbnail_1618977451580.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Street Oven",
+    "address":"Shop No. A5, Level - 5, House No: 2, New Baily Road, Green Cozy Cott Dhaka, 1217.",
+    "delivery_charge": 70,
+    "image":"https://static.hungrynaki.com/hungrynaki-v4/restaurants/meta/_logo_1574077353415.png",
+    "hours":{
+      "Sunday":"11:00 AM - 10:30 PM",
+      "Monday":"11:00 AM - 10:30 PM",
+      "Tuesday":"11:00 AM - 10:30 PM",
+      "Wednesday":"11:00 AM - 10:30 PM",
+      "Thursday":"11:00 AM - 10:30 PM",
+      "Friday":"11:00 AM - 10:30 PM",
+      "Saturday":"11:00 AM - 10:30 PM"
+    },
+    "menus": [
+      {
+        "name": "BBQ Chicken Pizza",
+        "price": 220.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/street_oven/items/street_oven_b_b_q_chicken_pizza_thumbnail_1645683666929.jpeg"
+      },
+      {
+        "name": "Americana Pizza",
+        "price": 410.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/street_oven/items/street_oven_americana_pizza_thumbnail_1645684144706.png"
+      },
+      {
+        "name": "Sarda Pizza",
+        "price": 250.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/street_oven/items/street_oven_sarda_pizza_thumbnail_1645683857830.png"
+      },
+      {
+        "name": "Beef Supreme Pizza",
+        "price": 530.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/street_oven/items/street_oven_beef_supreme_pizza_thumbnail_1645683733295.png"
+      },
+      {
+        "name": "Creamy Melt Pizza",
+        "price": 500.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/street_oven/items/street_oven_creamy_melt_pizza_thumbnail_1645684093759.png"
+      },
+      {
+        "name": "French Fries",
+        "price": 160.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/street_oven/items/street_oven_french_fries_thumbnail_1645684361549.jpeg"
+      },
+      {
+        "name": "Chicken Shawarma",
+        "price": 189.00,
+        "url": "https://static.hungrynaki.com/hungrynaki-v4/restaurants/street_oven/items/street_oven_chicken_shawarma_thumbnail_1645684265523.jpeg"
+      }
+    ]
+  },
+  {
+    "name":"Madchef & Cheez",
+    "address":"4th Floor (Bangladesh Mohila Shomity), 4 Natok Shoroni, New Bailey Road, Dhaka-1000.",
+    "delivery_charge": 80,
+    "image":"https://bestlistbd.com/wp-content/uploads/classified-listing/2021/05/12360177_10154444661258135_8800457523946981770_n.jpg",
+
+    "hours":{
+      "Sunday":"11:00 AM - 11:00 PM",
+      "Monday":"11:00 AM - 11:00 PM",
+      "Tuesday":"11:00 AM - 11:00 PM",
+      "Wednesday":"11:00 AM - 11:00 PM",
+      "Thursday":"11:00 AM - 11:00 PM",
+      "Friday":"11:00 AM - 11:00 PM",
+      "Saturday":"11:00 AM - 11:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Chicken Cheese Bombs",
+        "price": 299.00,
+        "url": "https://madchef.com.bd/storage/images/ca7d5dbdfa6f57dffcb3faad342a215b.jpg"
+      },
+      {
+        "name": "Spicy Cajun Fries",
+        "price": 159.00,
+        "url": "https://madchef.com.bd/storage/images/e2be8e749cd183e0bad37ff363b86052.jpg"
+      },
+      {
+        "name": "Buffalo",
+        "price": 399.00,
+        "url": "https://madchef.com.bd/storage/images/c48cbb289be5924bc6e22b083a37da61.jpg"
+      },
+      {
+        "name": "Mushroom Melt",
+        "price": 379.00,
+        "url": "https://madchef.com.bd/storage/images/f4544b619ecc0c4829b3df983bb2a3a5.jpg"
+      },
+      {
+        "name": "The Cuban",
+        "price": 419.00,
+        "url": "https://madchef.com.bd/storage/images/423ad028712c7900552b20b7642a52b8.jpg"
+      },
+      {
+        "name": "Crispy Chicken & Bacon",
+        "price": 439.00,
+        "url": "https://madchef.com.bd/storage/images/685cca33258ef15a1f2afd633c599d56.jpg"
+      },
+      {
+        "name": "Achari Fried Rice",
+        "price": 299.00,
+        "url": "https://madchef.com.bd/storage/images/cd5cddb15c40bb68790241140b2ab34c.jpg"
+      },
+      {
+        "name": "Mad Monster",
+        "price": 649.00,
+        "url": "https://madchef.com.bd/storage/images/541e69d865d640ed8b15823fa1cf50fd.jpg"
+      },
+      {
+        "name": "Strawberry Caipirinha",
+        "price": 279.00,
+        "url": "https://madchef.com.bd/storage/images/e7b7018d5f606990ac42c830a0945c4b.jpg"
+      },
+      {
+        "name": "Cake In My Shake",
+        "price": 399.00,
+        "url": "https://madchef.com.bd/storage/images/0cdcf4001a44b4a003da7d469ecd14be.jpg"
+      },
+      {
+        "name": "Peanut Butter",
+        "price": 349.00,
+        "url": "https://madchef.com.bd/storage/images/365e110b2897c5a8e6855fda11612186.jpg"
+      }
+    ]
+  }
+]

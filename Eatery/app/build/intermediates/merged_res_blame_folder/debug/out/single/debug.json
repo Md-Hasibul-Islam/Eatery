@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\drawable_custom_button.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\drawable_left_arrow.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\drawable\\left_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\layout_recycler_restautant_list_row.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\layout\\recycler_restautant_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\layout_activity_success_order.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\layout\\activity_success_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\raw_restaurent.json.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\raw\\restaurent.json"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\drawable_eatery_logo_black.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\drawable\\eatery_logo_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\drawable_ic_remove_circle.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\drawable\\ic_remove_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\layout_menu_list_row.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\layout\\menu_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\drawable_ic_eaterysplash.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\drawable\\ic_eaterysplash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\drawable_back_to_login.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\drawable\\back_to_login.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\layout_activity_restaurant_menu.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\layout\\activity_restaurant_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\drawable_ic_splash.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\drawable\\ic_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\drawable_copyright.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\drawable\\copyright.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\drawable_ic_add_circle.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\drawable\\ic_add_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\drawable_input.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\drawable\\input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\drawable_info.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\drawable\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\layout_placeyourorder_list_row.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\layout\\placeyourorder_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\drawable_eatery_logo_white.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\drawable\\eatery_logo_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\drawable_custom_input.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\drawable\\custom_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\layout_activity_place_your_order.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\layout\\activity_place_your_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\drawable_ic_mobile.xml.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\drawable\\ic_mobile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.eatery.app-merged_res-27:/layout_activity_place_your_order.xml.flat",
+        "source": "com.example.eatery.app-main-29:/layout/activity_place_your_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-merged_res-27:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Random Admin\\.gradle\\daemon\\7.3.3\\com.example.eatery.app-main-29:\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]
